@@ -1,0 +1,1 @@
+•	Achieved 95% accuracy in identifying second-account user behaviour by designing and optimizing advanced SQL queries across multiple complex data sources.
